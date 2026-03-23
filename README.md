@@ -1,4 +1,8 @@
+<img width="1349" height="650" alt="image" src="https://github.com/user-attachments/assets/a61e29dc-7ffb-4e34-8528-fc9ad6e9a378" />
 
+<img width="1348" height="646" alt="image" src="https://github.com/user-attachments/assets/aa1ad4f1-7d73-475e-acde-c4f60db96e74" />
+
+<img width="378" height="573" alt="image" src="https://github.com/user-attachments/assets/f997e969-3495-4e82-ab20-8f67d3320137" />
 
 # StreakFit API 🚀
 
